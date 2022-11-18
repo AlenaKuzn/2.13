@@ -2,10 +2,10 @@
 # -*- coding: utf-8 -*-
 
 import sys
-from get_reys import get_reys
-from display import display_reys
-from select_reys import select_reys
-from help import help
+from pac_2.get_reys import get_reys
+from pac_2.display import display_reys
+from pac_2.select_reys import select_reys
+from pac_2.help import help
 
 
 def main():
